@@ -1,0 +1,6 @@
+git clone the app
+jenkins mvn clean install
+sonarqube check
+nexus copy
+docker build
+copy this to terraform and install there
